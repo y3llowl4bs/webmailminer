@@ -20,7 +20,8 @@ WebMailMiner is a simple Python tool for scraping email addresses from web pages
 
 ## Usage
    
-Run the script: python web_mail_miner.py
+Run the script: 
+python web_mail_miner.py
 You will be prompted to choose an input mode:
 
 'I' for user input: Enter the domains (comma-separated).
